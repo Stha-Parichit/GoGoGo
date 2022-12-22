@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p{
+                color: rgb(220, 16, 16);
+                background:rgb(41, 8, 255);
+                font-size:large;
+                font: 100;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            p{max-width: 50%;
+                height: auto;
+border: 1px solid rgb(rgb(236, 253, 6), rgb(255, 13, 219), rgb(88, 255, 4));
+            }
+        </style>
+    </head>
+    <body>
+       <div></div> <img src="GenshinImpact.jpg" alt="GenshinImpact.jpg">
+        <p>Genshin Impact is an action role-playing game developed and published by miHoYo. It was released for Android, iOS, PlayStation 4, and Windows in 2020, on PlayStation 5 in 2021, and is set for release on Nintendo Switch.</p>
+        </div>
+            
+    </body>
+</html>

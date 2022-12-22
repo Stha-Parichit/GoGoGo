@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <h1 style="background-color:rgb(210, 37, 37);color: black;font-family: Arial, Helvetica, sans-serif;text-align: center;">Web Technologies WeeK 4 Workshop Task </h1>  
+       <h2 style="background-color:rgb(20, 113, 150);color:white;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center">Web Technologies WeeK 4 workshop task </h2>
+       <h3 style="background-color:rgb(91, 10, 241);color:rgb(224, 24, 224);font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;text-align: center">Web Technologies WeeK 4 Workshop Task </h3>
+       <h4 style="background-color:orangered;color: rgb(11, 182, 216);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;text-align: center">Web Technologies WeeK 4 Workshop Task </h4>
+       <h5 style="background-color:green;color: rgb(183, 43, 43);font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center">Web Technologies WeeK 4 Workshop Task </h5>
+       <h6 style="background-color:rgb(13, 226, 205);color: blue;font-family: 'Times New Roman', Times, serif;text-align: center;">Web Technologies WeeK 4 Workshop Task </h6>
+    </head>
+</html>
